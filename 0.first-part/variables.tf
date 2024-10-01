@@ -5,8 +5,10 @@ variable "ami" {
 
 
 
-
-
+#variable "region" {
+#  description = "from challenge-functions module"
+#  default = "ap-southeast-2"
+#}
 
 
 
