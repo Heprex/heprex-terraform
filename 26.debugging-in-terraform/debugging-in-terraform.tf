@@ -1,0 +1,10 @@
+export TF_LOG=INFO
+export TF_LOG=TRACE
+
+export TF_LOG_PATH=terraform.txt
+
+TRACE
+DEBUG
+INFO
+WARN
+ERROR
